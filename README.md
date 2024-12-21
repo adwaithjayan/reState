@@ -14,7 +14,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [https://github.com/adwaithjayan/reState.git]
+git clone https://github.com/adwaithjayan/reState.git
 cd react_native-restate
 ```
 
